@@ -1,6 +1,6 @@
 FROM ubuntu:17.04
 
-MAINTAINER hogehoge
+MAINTAINER hoge
 
 RUN echo "fugafuga"
 
