@@ -2,7 +2,7 @@ FROM ubuntu:17.04
 
 MAINTAINER hoge
 
-RUN echo "fugafuga"
+RUN echo "hogehoge"
 
 EXPOSE 80
 
